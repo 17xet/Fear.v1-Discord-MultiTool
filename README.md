@@ -8,6 +8,10 @@ This tool is not intended for actual use. It simulates features for educational 
 We do **not condone abuse, spamming, or unauthorized use of any kind**.
 
 ---
+## Support
+https://discord.gg/32UtHy3jyS
+
+---
 
 ## 🧠 Features 
 
