@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
